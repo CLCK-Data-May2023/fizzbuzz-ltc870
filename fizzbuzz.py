@@ -7,4 +7,4 @@ for num in range(1, 101):
     elif num % 3 == 0:
         print("Fizz")
     else:
-        print(f"{num}")
+        print(f"{num}!")
